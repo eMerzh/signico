@@ -1,0 +1,20 @@
+{
+  "name": "signico",
+  "version": "0.0.0",
+  "description": "A traffic sign directive for Angular based on Traffico",
+  "main": "signico.directive.js",
+  "dependencies": {
+    "traffico": "~0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "keywords": [
+    "traffic",
+    "angular",
+    "traffico",
+    "directive"
+  ],
+  "author": "Brice Maron <brice@bmaron.net>",
+  "license": "MIT"
+}
