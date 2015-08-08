@@ -1,0 +1,31 @@
+{
+  "name": "signico",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eMerzh/signico",
+  "authors": [
+    "Brice Maron <brice@bmaron.net>"
+  ],
+  "description": "A traffic sign directive for Angular based on Traffico",
+  "main": "signico.directive.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "traffic",
+    "angular",
+    "traffico",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mocks": "~1.4.3",
+    "traffico": "~0.1.8"
+  }
+}
